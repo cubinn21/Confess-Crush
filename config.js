@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Tỏ tình Crush Cuteee <3",
-    introTitle: 'Trần Nguyễn Trúc Linh',
+    introTitle: 'Hoàng Bảo Thiêm',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
+    btnYes: ' <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao cậu lại yêu mình <3',
     btnReply: 'Gửi cho cậu <3',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Đi chơi với mình nha :3.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/Wolf.Silver.953' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://www.facebook.com/Developer2191/' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
